@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.comparison {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.player-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.player-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.stats {
+  margin-top: 15px;
+  text-align: left;
+}
+
+.stats h3 {
+  text-align: center;
+}
